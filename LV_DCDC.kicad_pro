@@ -621,6 +621,10 @@
     [
       "d0d42826-9412-4307-add6-b80f5f074b9c",
       "CAN"
+    ],
+    [
+      "a226f117-e2e6-4d1f-815f-55407a2cf03f",
+      "power"
     ]
   ],
   "text_variables": {}
