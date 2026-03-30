@@ -12,4 +12,5 @@
   (lib (name "2026-03-24_13-51-17")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/2026-03-24_13-51-17.kicad_sym")(options "")(descr ""))
   (lib (name "2026-03-24_13-08-40")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/2026-03-24_13-08-40.kicad_sym")(options "")(descr ""))
   (lib (name "LSF0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/LSF0102DCUR.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-03-29_17-20-59")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/2026-03-29_17-20-59.kicad_sym")(options "")(descr ""))
 )
