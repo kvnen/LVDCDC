@@ -1171,7 +1171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "061d0053-dc7a-4141-9ed1-2ae535a1ae6e")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR0501"
 			(at 128.27 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -1231,7 +1231,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR062")
+					(reference "#PWR0501")
 					(unit 1)
 				)
 			)
@@ -1249,7 +1249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b103b02-f6c0-40f3-ba77-126a72c9b4e1")
-		(property "Reference" "R27"
+		(property "Reference" "R502"
 			(at 135.89 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1271,7 +1271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 131.572 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -1313,7 +1313,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "R27")
+					(reference "R502")
 					(unit 1)
 				)
 			)
@@ -1331,7 +1331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1799b9fb-f722-429d-8229-19998c5cb2fd")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR0504"
 			(at 128.27 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -1391,7 +1391,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR064")
+					(reference "#PWR0504")
 					(unit 1)
 				)
 			)
@@ -1409,7 +1409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f1e6d1a-0c47-4456-982e-2e1b4fe9f961")
-		(property "Reference" "R30"
+		(property "Reference" "R503"
 			(at 149.86 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1429,7 +1429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 149.86 79.248 90)
 			(hide yes)
 			(show_name no)
@@ -1471,7 +1471,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "R30")
+					(reference "R503")
 					(unit 1)
 				)
 			)
@@ -1489,7 +1489,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "234751f3-7448-489d-9d07-e8a1149ba733")
-		(property "Reference" "R29"
+		(property "Reference" "R504"
 			(at 149.86 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1509,7 +1509,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 149.86 127.508 90)
 			(hide yes)
 			(show_name no)
@@ -1551,7 +1551,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "R29")
+					(reference "R504")
 					(unit 1)
 				)
 			)
@@ -1569,7 +1569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d9d1122-8041-4a55-ad4e-16f652e0e67d")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR0503"
 			(at 128.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -1629,7 +1629,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR063")
+					(reference "#PWR0503")
 					(unit 1)
 				)
 			)
@@ -1647,7 +1647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3515ca18-3b0f-4362-aea4-18d96e00083e")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR0508"
 			(at 156.21 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -1707,7 +1707,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR068")
+					(reference "#PWR0508")
 					(unit 1)
 				)
 			)
@@ -1724,7 +1724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51cf6a7e-f0b5-4657-bedf-9003641618bd")
-		(property "Reference" "U11"
+		(property "Reference" "U501"
 			(at 133.985 74.295 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1800,7 +1800,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "U11")
+					(reference "U501")
 					(unit 1)
 				)
 			)
@@ -1818,7 +1818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e01bd10-27d2-4a46-b42f-105da862390d")
-		(property "Reference" "C44"
+		(property "Reference" "C501"
 			(at 134.62 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1838,7 +1838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.43 66.3448 0)
 			(hide yes)
 			(show_name no)
@@ -1880,7 +1880,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "C44")
+					(reference "C501")
 					(unit 1)
 				)
 			)
@@ -1898,7 +1898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72052a1b-bf89-4021-8cb1-69518dc3ac47")
-		(property "Reference" "R28"
+		(property "Reference" "R501"
 			(at 135.89 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1920,7 +1920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 131.572 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -1962,7 +1962,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "R28")
+					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -1980,7 +1980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84102256-03da-4d3d-9023-d7043124983a")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0507"
 			(at 156.21 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2040,7 +2040,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR069")
+					(reference "#PWR0507")
 					(unit 1)
 				)
 			)
@@ -2058,7 +2058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85b9ae23-6c79-45c5-8761-1e3157ade893")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR0506"
 			(at 140.97 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -2118,7 +2118,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR066")
+					(reference "#PWR0506")
 					(unit 1)
 				)
 			)
@@ -2135,7 +2135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c8e8fa2-f24e-44bb-aa14-f17d64db3956")
-		(property "Reference" "U12"
+		(property "Reference" "U502"
 			(at 133.985 122.555 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2211,7 +2211,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "U12")
+					(reference "U502")
 					(unit 1)
 				)
 			)
@@ -2229,7 +2229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ae4f575-2bb8-4101-a47e-7aba6204d114")
-		(property "Reference" "C46"
+		(property "Reference" "C503"
 			(at 160.02 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2251,7 +2251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.1752 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2293,7 +2293,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "C46")
+					(reference "C503")
 					(unit 1)
 				)
 			)
@@ -2311,7 +2311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aed19eea-4e6f-4093-9306-e17882eaac98")
-		(property "Reference" "C43"
+		(property "Reference" "C502"
 			(at 134.62 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2331,7 +2331,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.43 114.6048 0)
 			(hide yes)
 			(show_name no)
@@ -2373,7 +2373,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "C43")
+					(reference "C502")
 					(unit 1)
 				)
 			)
@@ -2391,7 +2391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d17d7e3b-8907-4ef6-a270-8ca5d340eb1d")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR0502"
 			(at 128.27 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -2451,7 +2451,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR065")
+					(reference "#PWR0502")
 					(unit 1)
 				)
 			)
@@ -2469,7 +2469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d73b0c4a-1b47-41a6-9a07-6530e4b2bd65")
-		(property "Reference" "C45"
+		(property "Reference" "C504"
 			(at 160.02 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2491,7 +2491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.1752 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -2533,7 +2533,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "C45")
+					(reference "C504")
 					(unit 1)
 				)
 			)
@@ -2551,7 +2551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec8c65bc-b134-4fee-b390-1f1a3cb082fa")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0505"
 			(at 140.97 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2611,7 +2611,7 @@
 		(instances
 			(project "LV_DCDC"
 				(path "/ccad4640-78c7-423b-83df-3ec0b90aa2b3/31d4a71c-66fd-4b80-a697-70e62f2ea215"
-					(reference "#PWR067")
+					(reference "#PWR0505")
 					(unit 1)
 				)
 			)
