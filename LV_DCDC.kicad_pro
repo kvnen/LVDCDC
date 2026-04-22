@@ -195,7 +195,6 @@
       ],
       "track_widths": [
         0.0,
-        0.508,
         1.27
       ],
       "tuning_pattern_settings": {
@@ -259,40 +258,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "pin_to_pin|1155700|736600|ca7db329-ee42-4a79-89e0-d1697f211ee2|fd2c8c55-c00c-47a5-ae20-f59d477f43b5|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/f9342e9a-2c81-4a9f-bedf-76ac3e437a63|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/f9342e9a-2c81-4a9f-bedf-76ac3e437a63|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/8e403994-6c7e-4f6f-89f1-18544613dbaa",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1143000|a0f38a7c-d696-4c9e-9921-ff5d95ed6bb6|21de6dac-3b1c-4ec0-bc20-143fe3c5c0e4|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1219200|7856acb1-e571-4fa1-89d5-475e155b929b|82e533c1-2853-41e9-910b-941efda42a86|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1244600|82e533c1-2853-41e9-910b-941efda42a86|5ae0f45a-0ba5-4484-b8d5-98ce96f74dce|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1651000|8bb377ff-7e31-40d4-8d45-d585363331cd|c4eacec6-51ac-473c-960d-b1b49be5c1ed|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1727200|5ae0f45a-0ba5-4484-b8d5-98ce96f74dce|7078fe4b-e9b9-4343-8b59-f8522bab533e|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|1879600|1752600|7078fe4b-e9b9-4343-8b59-f8522bab533e|4c06ecee-846f-4999-b426-965a0cc636b5|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3|/ccad4640-78c7-423b-83df-3ec0b90aa2b3",
-        ""
-      ],
-      [
-        "pin_to_pin|457200|990600|fd2c8c55-c00c-47a5-ae20-f59d477f43b5|5c0f3dd8-949e-44f3-b505-67516b521294|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/8e403994-6c7e-4f6f-89f1-18544613dbaa|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/8e403994-6c7e-4f6f-89f1-18544613dbaa|/ccad4640-78c7-423b-83df-3ec0b90aa2b3/f9342e9a-2c81-4a9f-bedf-76ac3e437a63/a5b38994-2bc4-4831-8336-eb0df1055128",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -570,7 +536,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "annotation": {
-      "method": 1,
+      "method": 0,
       "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
@@ -701,7 +667,7 @@
         "uuid": "ccad4640-78c7-423b-83df-3ec0b90aa2b3"
       }
     ],
-    "used_designators": "#PWR226-227,C208",
+    "used_designators": "NT1",
     "variants": []
   },
   "sheets": [
