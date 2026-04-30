@@ -1,0 +1,128 @@
+(footprint "libra"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5f869dd0-3cc0-493c-8388-ed2fbbc98753")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "libra"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a887d88-e091-45f2-b9e0-8258b8350c05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa3935d4-5a45-438d-bbba-5daeace9d5f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51748cb2-66f2-49a1-94ca-de5362c7f109")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -18.5 -16.5)
+		(end 18.5 -16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dc61ae94-be43-4d63-8fb8-d1f37c99bb7a")
+	)
+	(fp_line
+		(start -18.5 16.5)
+		(end -18.5 -16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8da849d6-f0dd-4ee3-ba47-d86af99de907")
+	)
+	(fp_line
+		(start 18.5 -16.5)
+		(end 18.5 16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5bbb626d-4e5e-4328-aaa9-c819698fc0d1")
+	)
+	(fp_line
+		(start 18.5 16.5)
+		(end -18.5 16.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6f7c96b9-ba2b-423b-84c7-dca1395b94b5")
+	)
+	(pad "" np_thru_hole custom
+		(at -3.45 14)
+		(size 0.001 0.001)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "97777b8f-49fa-4237-bd03-96e776b968eb")
+	)
+	(pad "" np_thru_hole custom
+		(at 3.45 -14)
+		(size 0 0)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(clearance 0)
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives)
+		(uuid "656a27f6-64e6-4908-8ed1-5dc085981469")
+	)
+	(embedded_fonts no)
+)
